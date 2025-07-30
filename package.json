@@ -1,0 +1,24 @@
+{
+  "name": "github-actions-pr-template-demo",
+  "version": "1.0.0",
+  "description": "A simple GitHub repository demonstrating how to:",
+  "homepage": "https://github.com/Alamdar1/github-actions-pr-template-demo#readme",
+  "bugs": {
+    "url": "https://github.com/Alamdar1/github-actions-pr-template-demo/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alamdar1/github-actions-pr-template-demo.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,scss,md}\""
+  },
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
